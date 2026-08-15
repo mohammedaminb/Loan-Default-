@@ -1,3 +1,4 @@
+<img width="1180" height="656" alt="Capture d&#39;écran 2026-08-15 225331" src="https://github.com/user-attachments/assets/22c34fd5-d65b-4669-8130-a9e0f684704d" />
 
 
 # Loan Default Analysis — Power BI Report
@@ -99,3 +100,12 @@ Helps financial/banking institutions to:
 - Understand the relationship between income, employment type, credit score, and loan size
 - Track default trends over time (yearly and YTD)
 - Support decision-making in loan approval and risk assessment
+
+  ## 👤 Author
+
+**MOHAMMED AMIN BOUSSAKER**
+
+**Data Analyst | IS Engineering Student | Türkiye 🇹🇷**
+Python · SQL · Power BI · DAX · Power Query · pandas · Statistical Testing
+AR · FR · TR · EN
+
